@@ -63,5 +63,5 @@
 
 ---
 
-![Footer](https://github.com/riyagpt0251/riyagpt0251/blob/main/tinywow_1000017326_74949770.webm)  
+![Footer](https://github.com/riyagpt0251/riyagpt0251/blob/main/IMG-20250125-WA0000.jpg)  
 *"Engineering tomorrow’s solutions with today’s innovation!"*
