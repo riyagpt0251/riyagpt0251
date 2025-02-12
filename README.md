@@ -34,7 +34,7 @@
 ### 2. Bigfuzzy – Child Rights Platform (SIH 2023 Winner 🏆)  
 ![Gamified Learning](https://img.shields.io/badge/-Gamification-FF4500) ![UI/UX](https://img.shields.io/badge/-UI/UX-008080)  
 *National award-winning platform for social education*  
-[![Demo GIF](https://media.giphy.com/media/3o7TKsQfUwL7eb8Kxq/giphy.gif)](https://demo-link)
+[![Demo GIF](https://github.com/riyagpt0251/riyagpt0251/blob/main/1000017353.gif)
 
 ### 3. GitHub Projects Showcase  
 | Project | Status | Tech Used |
