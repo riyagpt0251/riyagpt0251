@@ -29,7 +29,7 @@
 ### 1. AI-Based Structural Damage Detection  
 ![Python](https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow)  
 *Deep learning model to detect structural cracks from images*  
-[![Repo Link](https://img.shields.io/badge/View_Repo-8A2BE2?style=for-the-badge)](https://github.com/your-link)
+[![Repo Link](https://img.shields.io/badge/View_Repo-8A2BE2?style=for-the-badge)](https://github.com/riyagpt0251/Concrete-strength-prediction)
 
 ### 2. Bigfuzzy – Child Rights Platform (SIH 2023 Winner 🏆)  
 ![Gamified Learning](https://img.shields.io/badge/-Gamification-FF4500) ![UI/UX](https://img.shields.io/badge/-UI/UX-008080)  
