@@ -39,9 +39,9 @@
 ### 3. GitHub Projects Showcase  
 | Project | Status | Tech Used |
 |---------|--------|-----------|
-| [Handwritten-digit-recognition](https://github.com/link) | ✅ Complete | ![Python](https://img.shields.io/badge/-Jupyter_Notebook-F37626) |
-| [RainFall-Prediction](https://github.com/link) | ✅ Complete | ![Python](https://img.shields.io/badge/-Scikit_Learn-F7931E) |
-| [SVR Settlement Model](https://github.com/link) | 🚧 In Progress | ![SVR](https://img.shields.io/badge/-SVR-008080) |
+| [Handwritten-digit-recognition](https://github.com/riyagpt0251/Handwritten-digit-recognition) | ✅ Complete | ![Python](https://img.shields.io/badge/-Jupyter_Notebook-F37626) |
+| [RainFall-Prediction](https://github.com/riyagpt0251/RainFall-Prediction) | ✅ Complete | ![Python](https://img.shields.io/badge/-Scikit_Learn-F7931E) |
+| [SVR Settlement Model](https://github.com/riyagpt0251/SVR-model-for-settlement-predicton) | 🚧 In Progress | ![SVR](https://img.shields.io/badge/-SVR-008080) |
 
 ---
 
